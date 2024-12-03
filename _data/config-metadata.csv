@@ -1,15 +1,14 @@
 field,display_name,browse_link,external_link
+identifier,Source Identifier,,
 title,Title,
+type_art,Type of Artwork
 creator,Creator,
 date,Date Created,
-description,Description,
+access,Access Restrictions,
+link_external,Access Link (External),,true
+link_internal,PHDH Server Link,,true
+statement_supplied,Curatorial Statement,,
+statement_discovery,Curatorial Statement,,
 subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+description,Form Specific Description,
+contributors,Contributors,
